@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
- <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5822b4&labelColor=991eeb" alt="License">
+ <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=161e2f&labelColor=107770" alt="License">
  
-  <img src="https://img.shields.io/github/forks/GabrielPCarvalho/pokedex?label=forks&message=MIT&color=5822b4&labelColor=991eeb" alt="Forks">
+  <img src="https://img.shields.io/github/forks/GabrielPCarvalho/pokedex?label=forks&message=MIT&color=161e2f&labelColor=107770" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/GabrielPCarvalho/pokedex?label=stars&message=MIT&color=5822b4&labelColor=991eeb " alt="Stars">
+  <img src="https://img.shields.io/github/stars/GabrielPCarvalho/pokedex?label=stars&message=MIT&color=161e2f&labelColor=107770" alt="Stars">
 </p>
 
 <p align="center">
